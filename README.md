@@ -1,5 +1,8 @@
 In this project, let's build a **CoWIN Dashboard** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkcowindash.ccbp.tech/
+
 ### Refer to the images below:
 
 **Success View** <br/>
